@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+## FILES TO BE IGNORED. 
+*.mp4
+*.mp3
+*.png
+
